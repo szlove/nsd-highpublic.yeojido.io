@@ -1,6 +1,6 @@
 baseURL = 'https://nsd-highpublic.yeojido.io/'
 languageCode = 'ko-KR'
-title = '낙성대 하이퍼블릭 카르마: KARMA'
+title = '낙성대 하이퍼블릭 카르마 [KARMA]'
 
 [params]
   isAdsEnabled = true
