@@ -7,19 +7,19 @@ title = '낙성대 하이퍼블릭 카르마 [KARMA]'
   adsTelegramId = "ggyuvely"
 
   description = '퍼블릭이라는 기본형에서 방과 인력을 한 단계 더 갖춘 것이 하이퍼블릭이고, 카르마가 여기 속합니다. 인원이 많은 회식일수록 자리 크기가 곧 편함으로 이어지는데, 카르마는 사람이 늘어도 방이 옹색해지지 않도록 여유 있게 배정하는 편이라 규모 있는 모임에 유리합니다. 첫 방문이라도 자리를 안내받는 순간부터 여느 곳과 다르다는 느낌을 받는 경우가 잦습니다.'
-  author = '두리'
+  author = '카르마'
   datePublished = "2026-08-18T08:10:00+09:00"
   dateModified = "2026-08-18T08:10:00+09:00"
   [params.store]
-  tel = "010-8306-5747"
+  tel = "010-7456-5410"
   location = "낙성대"
   locationEn = "NSD"
   name = "카르마"
   nameEn = "KARMA"
   category = "하이퍼블릭"
   categoryEn = "Highpublic"
-  address = "서울 관악구"
-  googleMapSrc = "https://www.google.com/maps?q=서울+관악구&output=embed"
+  address = "서울 관악구 봉천동"
+  googleMapSrc = "https://www.google.com/maps?q=서울+관악구+봉천동&output=embed"
 	[params.store.social.kakaoTalk]
 	  id = ""
 	  link = ""
